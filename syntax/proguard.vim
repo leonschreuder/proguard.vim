@@ -1,7 +1,7 @@
-" Vim syntax file
+" Proguard syntax file
 " Language:	ProGuard configuration
-" Maintainer:	David Reiss <dreiss@fb.com>
-" Version:	2
+" Maintainer:	Leon Schreuder, David Reiss <dreiss@fb.com>
+" Version:	3
 
 " Quit when a syntax file was already loaded
 if exists("b:current_syntax")

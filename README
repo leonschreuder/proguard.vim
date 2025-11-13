@@ -1,3 +1,6 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=4649
+This is a fork of the mirror of http://www.vim.org/scripts/script.php?script_id=4649
 
 Syntax highlighting for ProGuard configuration files
+
+Difference:
+Added filetype detection
